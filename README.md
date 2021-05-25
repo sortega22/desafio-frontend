@@ -2,11 +2,11 @@
 
 Olá Dev, estamos a procura de profissionais interessados, boa capacidade de aprendizado, adaptação e proatividade!
 
-# Fidúcia
+## Fidúcia
 
 Somos uma instituição financeira devidamente autorizada e regulada pelo Banco Central do Brasil. 
 
-# Quem Somos
+## Quem Somos
 
 Fundada em Janeiro de 2001, a Fidúcia é uma instituição financeira classificada como Sociedade de Crédito ao Microempreendedor e à Empresa de Pequeno Porte. Com a resolução
 
@@ -16,7 +16,7 @@ Hoje oferecemos aos nossos clientes, um banco digital prestador de serviços fin
 
 Trabalhamos na concessão de um crédito de qualidade, de forma que o recurso liberado atue de forma saudável na vida de todos os envolvidos.
 
-# Desafio 
+## Desafio 
 
 A missão de criar uma SPA (Single-page Application) para listar, detalhar e buscar pokémons, usando a API Pokeapi.co.
 
@@ -24,7 +24,7 @@ O Layout/Design é interamente livre para sua criatividade, mas a lista deverá 
 
 Sugerimos que ao clicar em um item, abra um modal com mais informações ao seu critério sobre o Pokémon.
 
-# Como fazer?
+## Como fazer?
 
 Será necessário usar as seguintes tecnologias
 
@@ -34,7 +34,7 @@ Será necessário usar as seguintes tecnologias
 - Git
 - Consumo de API Rest
 
-# Regras
+## Regras
 
 No desafio será necessário os seguintes pontos:
 - No layout utilizar algum framework CSS (ex: Bootstrap, MaterializeCSS, Sass, TailWind ...)
