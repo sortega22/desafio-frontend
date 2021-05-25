@@ -36,7 +36,7 @@ Será necessário usar as seguintes tecnologias
 
 No desafio será necessário os seguintes pontos:
 - No layout utilizar algum framework CSS (ex: Bootstrap, MaterializeCSS, Sass, TailWind ...)
-- Ao usar JS, deverá utilizar algum framework (ex: ReactJS, Angular, VueJS), lembrando que ReactJS é diferencial, pois utilizamos aqui na Fidúcia.
+- Ao usar JS, de preferência utilizar algum framework (ex: ReactJS, Angular, VueJS), lembrando que ReactJS é diferencial, pois utilizamos aqui na Fidúcia, entretanto, caso não saiba nenhum dos frameworks citados, você poderá fazer sem eles, portanto, não desista.
 
 
 ## Por onde começo?
