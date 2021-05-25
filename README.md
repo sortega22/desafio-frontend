@@ -2,11 +2,9 @@
 
 Olá Dev, estamos a procura de profissionais interessados, boa capacidade de aprendizado, adaptação e proatividade!
 
-## Fidúcia
+## Quem Somos
 
 Somos uma instituição financeira devidamente autorizada e regulada pelo Banco Central do Brasil. 
-
-## Quem Somos
 
 Fundada em Janeiro de 2001, a Fidúcia é uma instituição financeira classificada como Sociedade de Crédito ao Microempreendedor e à Empresa de Pequeno Porte. Com a resolução
 
